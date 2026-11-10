@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vibecoder-bulavin.github.io/guest-house-u-stasuka/sitemap.xml
